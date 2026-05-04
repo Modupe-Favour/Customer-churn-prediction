@@ -5,7 +5,7 @@ for a telecom company and presents findings through an interactive
 business dashboard.
 
 ## 🔗 Live Demo
-[Click here to view the live dashboard](http://localhost:8501/) ← Add your Streamlit Cloud link here
+[Click here to view the live dashboard](https://customer-churn-prediction-8y66blgkgpzkmolqkshmwq.streamlit.app/)
 
 ## 📌 Project Overview
 Customer churn is one of the most costly problems a business faces.
