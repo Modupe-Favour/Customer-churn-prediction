@@ -11,7 +11,7 @@ st.set_page_config(page_title="Churn Prediction Dashboard",
                    layout="wide", page_icon="📉")
 
 # --- Load Assets ---
-df = load_data("data/telco_churn.csv")
+df = load_data("Data/telco_churn.csv")
 model = joblib.load("model.pkl")
 scaler = joblib.load("scaler.pkl")
 feature_names = joblib.load("feature_names.pkl")

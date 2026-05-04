@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 import joblib
 
 print("🔄 Loading data...")
-df = pd.read_csv("data/telco_churn.csv")
+df = pd.read_csv("Data/telco_churn.csv")
 
 # --- Clean Data ---
 df["TotalCharges"] = pd.to_numeric(df["TotalCharges"], errors="coerce")
